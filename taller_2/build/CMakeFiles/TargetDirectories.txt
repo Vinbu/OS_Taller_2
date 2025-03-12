@@ -1,0 +1,3 @@
+/home/vinbu/University/Semester_7/OS/06_03/example_2/build/CMakeFiles/cliutils.dir
+/home/vinbu/University/Semester_7/OS/06_03/example_2/build/CMakeFiles/edit_cache.dir
+/home/vinbu/University/Semester_7/OS/06_03/example_2/build/CMakeFiles/rebuild_cache.dir
