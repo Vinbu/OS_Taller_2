@@ -12,11 +12,11 @@ void reset_sigint_count(int signo) {
 
 void sigterm_handler(int signo) {
     if (sigint_count == 0) {
-        printf("\n Seguro que quiere cerrar el programa?\n");
+        printf("\n Are you sure that you want to stop the program?\n");
         sigint_count++;
         alarm(5);
     } else {
-        printf("\n Segnal SIGTERM %d recibida.\n", signo);
+        printf("\n Signal SIGTERM %d catch.\n", signo);
         exit(0);
     }
 }
