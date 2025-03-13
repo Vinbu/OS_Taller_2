@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/cliutils.dir/cliutils.c.o CMakeFiles/cliutils.dir/cpu.c.o -o cliutils 
